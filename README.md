@@ -65,7 +65,8 @@
 
 ## Installation
 
-This macro is installed like any other Swift Package, just add this to the dependencies section of your Package.swift file
+This macro is installed like any other Swift Package, just add this to the dependencies section of your Package.swift file:
+
 
 ```
 .package(url: "https://github.com/lontronix/EnvironmentAction", branch: "main")
