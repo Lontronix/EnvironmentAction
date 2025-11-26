@@ -62,12 +62,13 @@
         print("'ExampleAction' is not implemented!")
     }
  }
+```
 
 ## Installation
 
 This macro is installed like any other Swift Package, just add this to the dependencies section of your Package.swift file:
 
 
-```
+```swift
 .package(url: "https://github.com/lontronix/EnvironmentAction", branch: "main")
 ```
